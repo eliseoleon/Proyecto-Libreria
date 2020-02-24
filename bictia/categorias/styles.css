@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: cursive;
+    
+}
+body{
+    background-attachment: fixed;
+    background-size: cover;
+    background-image: url('../biblioteca.jpg');
+}
+
+.container{
+    text-align: center;
+    background: #f7f2f2;
+    border-radius: 4px;
+    background-attachment: fixed;
+    background-size: cover;
+    background-image: url('../biblioteca.jpg');
+    
+}
+h1{
+    color: white;
+}
+label{
+    color: white;
+}
+.boton{
+    width: 300px;
+    height: 50px;
+    border: none;
+    border-radius: 4px;
+    background-color: #AC513B;
+    color: white;
+    
+}
+.input{
+    width: 300px;
+    height: 50px;
+    border-radius: 2px;
+ 
+}
+table{
+    width: 1000px;
+    margin-left: 20px;
+    margin-top: 40px;
+    font-family: cursive;
+    font-size: 20px;
+    background: white;
+}
